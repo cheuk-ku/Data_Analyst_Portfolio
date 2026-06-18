@@ -50,6 +50,7 @@ This repository showcases my skills, contains analytic projects and track my pro
 
 ## Education
 Bachelor of Science in Computer Science and Information System, The University of Auckland, (2015 – 2018)
+
 Data Analyst – Diploma in Digital Technology Development and Design (Level 4 - 6), Mission Ready, (2025 – Present)
 
 ## Certifications
