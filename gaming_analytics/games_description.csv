@@ -1,0 +1,236 @@
+game_name,game_id,year_released,publisher,genre
+Counter,gid001,2012,Valve,Action
+PUBG: B,gid002,2017,KRAFTON,Action
+Dota 2,gid003,2013,Valve,Action
+Grand T,gid004,2015,Rocksta,Action
+Tom Cla,gid005,2015,Ubisoft,Action
+Team Fo,gid006,2007,Valve,Action
+Terrari,gid007,2011,Re-Logi,Action
+Apex Le,gid008,2020,Electro,Action
+Garry's,gid009,2006,Valve,Simulation
+Rust,gid010,2018,Facepun,Action
+Wallpap,gid011,2018,Wallpap,Action
+The Wit,gid012,2015,CD PROJ,Action
+ELDEN R,gid013,2022,FromSof,Action
+Cyberpu,gid014,2020,CD PROJ,Action
+Left 4 ,gid015,2009,Valve,Action
+Black M,gid016,2024,Game Sc,Action
+Stardew,gid017,2016,Concern,Role-Playing
+Destiny,gid018,2019,Bungie,Action
+Among U,gid019,2018,Innersl,Action
+Euro Tr,gid020,2012,SCS Sof,Simulation
+Warfram,gid021,2013,Digital,Action
+Baldur',gid022,2023,Larian ,Adventure
+Red Dea,gid023,2019,Rocksta,Action
+Unturne,gid024,2017,Smartly,Action
+War Thu,gid025,2013,Gaijin ,Simulation
+Dead by,gid026,2016,Behavio,Action
+ARK: Su,gid027,2017,Studio ,Action
+The For,gid028,2018,Endnigh,Action
+PAYDAY ,gid029,2013,Starbre,Action
+Valheim,gid030,2021,Coffee ,Action
+Lethal ,gid031,2023,Zeekers,Adventure
+Portal ,gid032,2011,Valve,Action
+Hollow ,gid033,2017,Team Ch,Action
+Dying L,gid034,2015,Techlan,Action
+Sea of ,gid035,2020,Xbox Ga,Action
+Bloons ,gid036,2018,Ninja K,Strategy
+Monster,gid037,2018,CAPCOM ,Action
+Palworl,gid038,2024,Pocketp,Adventure
+Subnaut,gid039,2018,Unknown,Adventure
+NARAKA:,gid040,2021,NetEase,Action
+BeamNG.,gid041,2015,BeamNG,Simulation
+DARK SO,gid042,2016,FromSof,Role-Playing
+Deep Ro,gid043,2020,Coffee ,Action
+Hades,gid044,2020,Supergi,Action
+Project,gid045,2013,The Ind,Role-Playing
+People ,gid046,2019,Studio ,Simulation
+Sid Mei,gid047,2016,2K,Simulation
+7 Days ,gid048,2024,The Fun,Simulation
+Path of,gid049,2013,Grindin,Role-Playing
+Vampire,gid050,2022,poncle,Action
+Hearts ,gid051,2016,Paradox,Simulation
+Sekiro:,gid052,2019,Activis,Action
+Underta,gid053,2015,tobyfox,Role-Playing
+Halo: T,gid054,2019,Xbox Ga,Action
+Titanfa,gid055,2016,Electro,Action
+Arma 3,gid056,2013,Bohemia,Simulation
+Hogwart,gid057,2023,Warner ,Role-Playing
+Risk of,gid058,2020,Gearbox,Action
+Battlef,gid059,2018,Electro,Action
+Mount &,gid060,2022,TaleWor,Role-Playing
+Borderl,gid061,2012,2K,Action
+Sons Of,gid062,2024,Newnigh,Action
+Forza H,gid063,2021,Xbox Ga,Simulation
+Fallout,gid064,2010,Bethesd,Role-Playing
+RimWorl,gid065,2018,Ludeon ,Simulation
+Divinit,gid066,2017,Larian ,Role-Playing
+Half-Li,gid067,2004,Valve,Action
+Satisfa,gid068,2024,Coffee ,Adventure
+The Sim,gid069,2014,Electro,Simulation
+Tomb Ra,gid070,2013,Crystal,Action
+World o,gid071,2017,Wargami,Simulation
+Slay th,gid072,2019,Mega Cr,Role-Playing
+theHunt,gid073,2017,Expansi,Simulation
+Call of,gid074,2015,Activis,Action
+America,gid075,2016,SCS Sof,Simulation
+The Eld,gid076,2014,Bethesd,Adventure
+Plants ,gid077,2009,PopCap ,Strategy
+Totally,gid078,2021,Landfal,Action
+Stellar,gid079,2016,Paradox,Simulation
+Aimlabs,gid080,2023,State S,Simulation
+Oxygen ,gid081,2019,Klei En,Simulation
+Slime R,gid082,2017,Monomi ,Simulation
+Inscryp,gid083,2021,Devolve,Strategy
+Assetto,gid084,2014,Kunos S,Simulation
+DAVE TH,gid085,2023,MINTROC,Role-Playing
+Kerbal ,gid086,2015,Private,Simulation
+God of ,gid087,2022,PlaySta,Role-Playing
+Need fo,gid088,2019,Electro,Sports & Racing
+Residen,gid089,2023,CAPCOM ,Action
+Teardow,gid090,2022,Tuxedo ,Simulation
+Once Hu,gid091,2024,Starry ,Action
+Europa ,gid092,2013,Paradox,Strategy
+Devil M,gid093,2019,CAPCOM ,Action
+The Fir,gid094,2024,NEXON,Action
+Gunfire,gid095,2021,Duoyi G,Adventure
+eFootba,gid096,2021,KONAMI,Simulation
+House F,gid097,2018,Frozen ,Simulation
+Yu-Gi-O,gid098,2022,KONAMI,Simulation
+Kenshi,gid099,2018,Lo-Fi G,Role-Playing
+Dyson S,gid100,2021,Gamera ,Simulation
+CarX Dr,gid101,2017,CarX Te,Simulation
+Crusade,gid102,2020,Paradox,Role-Playing
+The Cre,gid103,2018,Ubisoft,Action
+My Summ,gid104,2016,Amistec,Simulation
+FINAL F,gid105,2014,Square ,Adventure
+Russian,gid106,2021,FishSof,Sports & Racing
+OMORI,gid107,2020,OMOCAT,Role-Playing
+Dragon',gid108,2024,CAPCOM ,Adventure
+"Papers,",gid109,2013,Monomi ,Simulation
+Noita,gid110,2020,Nolla G,Action
+Warhamm,gid111,2024,Focus E,Action
+Fishing,gid112,2015,Fishing,Sports & Racing
+Grounde,gid113,2022,Xbox Ga,Action
+Microso,gid114,2020,Xbox Ga,Adventure
+Black D,gid115,2018,Pearl A,Adventure
+Yakuza ,gid116,2018,SEGA,Role-Playing
+STAR WA,gid117,2023,Electro,Adventure
+Superma,gid118,2024,Nokta G,Simulation
+Dark an,gid119,2024,IRONMAC,Action
+Manor L,gid120,2024,Hooded ,Strategy
+Northga,gid121,2018,Shiro G,Strategy
+Plague ,gid122,2016,Ndemic ,Simulation
+Cities:,gid123,2023,Paradox,Simulation
+Balatro,gid124,2024,Playsta,Strategy
+Golf Wi,gid125,2020,Team17,Sports & Racing
+PowerWa,gid126,2022,Square ,Simulation
+Alien: ,gid127,2014,SEGA,Adventure
+Tableto,gid128,2015,Berserk,Simulation
+Party A,gid129,2023,Source ,Action
+Game De,gid130,2013,Greenhe,Simulation
+Limbus ,gid131,2023,Project,Strategy
+DCS Wor,gid132,2018,Eagle D,Simulation
+Little ,gid133,2021,BANDAI ,Adventure
+DiRT Ra,gid134,2019,Codemas,Sports & Racing
+Lies of,gid135,2023,NEOWIZ,Adventure
+Core Ke,gid136,2024,Fireshi,Adventure
+DREDGE,gid137,2023,Team17,Simulation
+Street ,gid138,2023,CAPCOM ,Action
+For The,gid139,2018,Curve G,Strategy
+MARVEL ,gid140,2023,Nuverse,Action
+Chained,gid141,2024,Anegar ,Simulation
+Steep,gid142,2016,Ubisoft,Sports & Racing
+Jurassi,gid143,2021,Frontie,Simulation
+Car Mec,gid144,2021,PlayWay,Simulation
+Dorfrom,gid145,2022,Toukana,Strategy
+Two Poi,gid146,2018,SEGA,Simulation
+DiabloI,gid147,2023,Blizzar,Role-Playing
+Stackla,gid148,2022,Sokpop ,Strategy
+Golf It,gid149,2023,Perfuse,Sports & Racing
+DEATH S,gid150,2022,505 Gam,Adventure
+Transpo,gid151,2019,Good Sh,Strategy
+Persona,gid152,2024,SEGA,Adventure
+Skater ,gid153,2020,Easy Da,Sports & Racing
+Sonic F,gid154,2022,SEGA,Adventure
+Anno 18,gid155,2019,Ubisoft,Simulation
+Company,gid156,2023,SEGA,Strategy
+Riders ,gid157,2023,Ubisoft,Sports & Racing
+Descend,gid158,2019,No More,Sports & Racing
+ENDLESS,gid159,2014,SEGA,Strategy
+Magic: ,gid160,2023,Wizards,Strategy
+Undispu,gid161,2023,Deep Si,Sports & Racing
+Session,gid162,2022,Nacon,Sports & Racing
+Armello,gid163,2015,League ,Strategy
+Symphon,gid164,2022,indie.i,Role-Playing
+Footbal,gid165,2023,SEGA,Sports & Racing
+Liftoff,gid166,2018,LuGus S,Sports & Racing
+Like a ,gid167,2024,SEGA,Action
+RIDE 4,gid168,2020,Milesto,Sports & Racing
+Fields ,gid169,2024,NPC Stu,Action
+TROUBLE,gid170,2020,Dandyli,Role-Playing
+Age of ,gid171,2024,Xbox Ga,Strategy
+Crime S,gid172,2024,Preside,Simulation
+Ultimat,gid173,2017,Game-La,Strategy
+Automob,gid174,2020,Reiza S,Sports & Racing
+shapez ,gid175,2024,tobspr ,Action
+Summone,gid176,2024,Com2uS,Action
+CarX St,gid177,2024,CarX Te,Sports & Racing
+PIPE by,gid178,2018,Mash Ga,Sports & Racing
+Frostpu,gid179,2024,11 bit ,Simulation
+Tactica,gid180,2024,Suspici,Action
+Lost Ju,gid181,2022,SEGA,Adventure
+RIDE 3,gid182,2018,Milesto,Sports & Racing
+F124,gid183,2024,Electro,Sports & Racing
+PGA TOU,gid184,2022,2K,Sports & Racing
+NBA 2K2,gid185,2024,2K,Simulation
+Sins of,gid186,2024,Stardoc,Action
+Shin Me,gid187,2024,SEGA,Adventure
+WWE 2K2,gid188,2024,2K,Sports & Racing
+Rooftop,gid189,2024,MLMEDIA,Sports & Racing
+LOCKDOW,gid190,2024,Mirage ,Action
+Tony Ha,gid191,2023,Activis,Sports & Racing
+Total W,gid192,2023,SEGA,Action
+TCG Car,gid193,2024,OPNeon ,Simulation
+Scythe:,gid194,2018,The Kni,Strategy
+iRacing,gid195,2015,iRacing,Sports & Racing
+Dale & ,gid196,2024,Striped,Action
+Walkabo,gid197,2021,Mighty ,Sports & Racing
+Thank G,gid198,2024,Panic,Adventure
+MX vs. ,gid199,2010,THQ Nor,Sports & Racing
+EA SPOR,gid200,2024,Electro,Simulation
+Stolen ,gid201,2024,Burst2F,Strategy
+Ride 2,gid202,2016,Milesto,Sports & Racing
+Lonely ,gid203,2019,Megagon,Sports & Racing
+Wrestli,gid204,2021,MDickie,Sports & Racing
+Dune: I,gid205,2024,Dire Wo,Strategy
+Gym Sim,gid206,2024,Red Axe,Sports & Racing
+F1Manag,gid207,2024,Frontie,Sports & Racing
+Sledder,gid208,2023,Bonus S,Sports & Racing
+MX vs A,gid209,2022,THQ Nor,Sports & Racing
+Ale & T,gid210,2024,GrabThe,Action
+Dead Ri,gid211,2024,CAPCOM ,Action
+MXGP - ,gid212,2014,Plug In,Sports & Racing
+Visions,gid213,2024,Square ,Action
+RIDE 5,gid214,2023,Milesto,Action
+GP Bike,gid215,2021,PiBoSo,Sports & Racing
+UFO 50,gid216,2024,Mossmou,Adventure
+MXGP3 -,gid217,2017,Milesto,Sports & Racing
+MXGP PR,gid218,2018,Milesto,Sports & Racing
+MXGP 20,gid219,2021,Milesto,Sports & Racing
+Driftwo,gid220,2023,Stoked ,Sports & Racing
+Golf Ga,gid221,2022,Curve G,Sports & Racing
+Golf Pe,gid222,2018,Afterbu,Sports & Racing
+TrackDa,gid223,2021,MadCow ,Sports & Racing
+All-In-,gid224,2023,Appnori,Sports & Racing
+Shawarm,gid225,2024,Patates,Simulation
+Season ,gid226,2024,2K,Sports & Racing
+Tanuki ,gid227,2020,Rewind ,Sports & Racing
+Train S,gid228,2024,Dovetai,Simulation
+Grand M,gid229,2022,Microid,Sports & Racing
+69 Ball,gid230,2023,GKStudi,Sports & Racing
+Motordo,gid231,2024,Hobo Ca,Sports & Racing
+The Ram,gid232,2021,hyperpa,Sports & Racing
+Downhil,gid233,2023,Germán,Action
+Slime V,gid234,2023,Manaroc,Action
+All In ,gid235,2024,Appnori,Action
