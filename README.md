@@ -1,7 +1,7 @@
 # Data Analyst Portfolio
 
 ## About me
-Hi, I'm Cheuk Hei Ku. I am a motivated and detail-oriented entry-level Data Analyst with strong skills in Python, SQL, Excel and data visualization. I have developed and experienced in cleaning, analyzing and transforming data to visualize insights to support business decision making via my academic and personal projects. I am excited and eager to seek an opportunity to apply my technical and analytic skills in a professional environment and grow within a team from working through the real-world projects.
+Hi, I'm Cheuk Hei Ku. I am a motivated and detail-oriented entry-level Data Analyst with strong skills in Python, SQL, Excel and data visualization. I have developed and experienced in cleaning, analyzing and transforming data to visualize insights to support business decision making and answer identified questions via my internship experience, academic and personal projects. I am excited and eager to seek an opportunity to apply my technical and analytic skills in a professional environment and grow within a team from working through the real-world projects.
 
 This repository showcases my skills, contains analytic projects and track my progress in the field of Data Analytics.
 
@@ -13,7 +13,25 @@ This repository showcases my skills, contains analytic projects and track my pro
 - Tools: Excel (Pivot Table, Power Query, VLOOKUP/XLOOKUP), Microsoft Fabric, Azure, Visual Studio Code
 - Others: Data Storytelling, Reporting
 
+## Work Experience
+**Data Analyst Intern** - Fundsorter, New Zealand (Jul 2026 - Oct 2026)
+- Worked on two projects - West Coast Data Report (Main project), Council Data Report (Side project)
+
 ## Projects
+### West Coast Grant Data Report
+**Goal**: The report targets the West Coast region in New Zealand, which is designed to inform funding strategy, support regional coordination, equip community organisations, surface systemic inequities and track change over time.
+
+**Description**: The report will be published by Fundsorter soon. This project includes the following steps from first contact through to the final product: ETL Process, Data Enrichment, Identify analytical areas and questions, create measures and relationships between tables, create visualization, ntegrate the written insights and visualizations into the Canva report design.
+
+**Tools**: Power BI, Python Pandas, Power Query, Excel, DAX, Google Sheet, Canva
+
+### Council Data Report
+**Goal**: Identified meaningful insights and interesting patterns from the Councils' funding opportunities data
+
+**Description**: A side project during the internship experience within Fundsorter. This project includes the following steps: Data Cleaning and Transformation, Identify analytical areas and questions, create measures and relationships between tables, create visualizations, develop a written report with the observed insights and visualizations in Word.
+
+**Tools**: Power BI, Python Pandas, Power Query, Excel, DAX, Word
+
 ### Loan Status Predictive Analysis
 **Goal**: Predict whether the loan will be approved or defaulted using the features in the dataset provided
 
