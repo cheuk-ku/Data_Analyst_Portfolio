@@ -72,5 +72,7 @@ Bachelor of Science in Computer Science and Information System, The University o
 Data Analyst – Diploma in Digital Technology Development and Design (Level 4 - 6), Mission Ready, (2025 – Present)
 
 ## Certifications
+Certificate in Digital Technology Product Solutions (Level 5, Data Analyst) – Mission Ready (2026)
+
 Certificate in Technology Product Development Essentials (Level 4, Data Analyst) – Mission Ready (2026)
 
