@@ -26,7 +26,7 @@ This repository showcases my skills, contains analytic projects and track my pro
 **Tools**: Power BI, Python Pandas, Power Query, Excel, DAX, Google Sheet, Canva
 
 ### Council Data Report
-**Goal**: Identified meaningful insights and interesting patterns from the Councils' funding opportunities data
+**Goal**: Identified meaningful insights and interesting patterns from the Councils' funding opportunities data provided by Fundsorter
 
 **Description**: A side project during the internship experience within Fundsorter. This project includes the following steps: Data Cleaning and Transformation, Identify analytical areas and questions, create measures and relationships between tables, create visualizations, develop a written report with the observed insights and visualizations in Word.
 
