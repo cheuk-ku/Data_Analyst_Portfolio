@@ -28,9 +28,9 @@ This repository showcases my skills, contains analytic projects and track my pro
 ### Council Data Report
 **Goal**: Identified meaningful insights and interesting patterns from the Councils' funding opportunities data provided by Fundsorter
 
-**Description**: A side project during the internship experience within Fundsorter. This project includes the following steps: Data Cleaning and Transformation, Identify analytical areas and questions, create measures and relationships between tables, create visualizations, develop a written report with the observed insights and visualizations in Word.
+**Description**: A side project during the internship experience within Fundsorter. This project includes the following steps: Data Cleaning and Transformation, Identify analytical areas and questions, perform descriptive analysis, create measures and relationships between tables, create visualizations, develop a written report with the observed insights and visualizations in Word.
 
-**Tools**: Power BI, Python Pandas, Power Query, Excel, DAX, Word
+**Tools**: Power BI, Power Query, Excel, DAX, Word
 
 ### Loan Status Predictive Analysis
 **Goal**: Predict whether the loan will be approved or defaulted using the features in the dataset provided
